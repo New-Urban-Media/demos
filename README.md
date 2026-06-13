@@ -5,6 +5,7 @@
 <!-- DIRECTORY_START -->
 - [Afro-Latino Week 2027 - Visual Presentation (English)](./al-1.html)
 - [Afro-Latino Week 2027 — Presentacion Visual (Espanol)](./al-2.html)
+- [Christmas Fiesta 2026 — Visual Proposal , New Urban Media](./ChristmasFiesta.html)
 - [Día de los Muertos 2026 — Design Presentation](./ddlm.html)
 - [Ferguson Industrial Co. , Case Study Templates](./ferguson-case-study-templates%20(3).html)
 - [The Last Christmas — Visual Identity , Cazateatro 2026](./lc1.html)
